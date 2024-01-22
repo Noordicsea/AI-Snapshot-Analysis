@@ -1,0 +1,4 @@
+tkinter
+openai
+Pillow
+requests

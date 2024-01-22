@@ -1,4 +1,7 @@
 # AI-Snapshot-Analysis
+
+grug description: Select part of your screen and ask AI about it.
+
 AI-Snapshot-Analysis is a Python application designed to integrate advanced image and text analysis capabilities with a user-friendly interface. Leveraging OpenAI's powerful models, this tool enables users to capture and analyze specific areas of their screen, providing insightful feedback based on artificial intelligence.
 Features
 

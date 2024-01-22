@@ -37,9 +37,10 @@ Dependencies
     Pytesseract
     Requests
 
-Configuration
+# Configuration
+Ensure that you have set the OpenAI API key in your environment variables for the application to function correctly!
+Make sure to add pytesseract to your Systems environment variables!
 
-!!!Ensure that you have set the OpenAI API key in your environment variables for the application to function correctly.!!!
 
 # Contributing
 Contributions to AI-Snapshot-Analysis are welcome. Please fork the repository and submit a pull request with your proposed changes.
